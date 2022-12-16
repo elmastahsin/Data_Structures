@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Algorithm Analysis and Big O notation">
-      <change beforePath="$PROJECT_DIR$/01_AlgorithmAnalysis/src/java/bigO/BigOSingleLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_AlgorithmAnalysis/src/java/bigO/BigOSingleLoop.java" afterDir="false" />
-    </list>
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Algorithm Analysis and Big O notation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671215653513</updated>
-      <workItem from="1671215654621" duration="434000" />
+      <workItem from="1671215654621" duration="814000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
       <created>1671215975713</created>
@@ -68,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671215975713</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Algorithm Analysis and Big O notation">
+      <created>1671216120189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671216120189</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
