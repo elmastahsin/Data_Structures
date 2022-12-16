@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_AlgorithmAnalysis/src/java/bigO/BigOSingleLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Algorithm Analysis and Big O notation">
+      <change beforePath="$PROJECT_DIR$/01_AlgorithmAnalysis/src/java/bigO/BigOSingleLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_AlgorithmAnalysis/src/java/bigO/BigOSingleLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +41,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -59,11 +59,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671215653513</updated>
-      <workItem from="1671215654621" duration="118000" />
+      <workItem from="1671215654621" duration="434000" />
     </task>
+    <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
+      <created>1671215975713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671215975713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Algorithm Analysis and Big O notation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithm Analysis and Big O notation" />
   </component>
 </project>
