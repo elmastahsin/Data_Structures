@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>CollectionsReview</module>
+        <module>dsa_02_CollectionsReview</module>
         <module>dsa_01_AlgoritmAnalysis</module>
     </modules>
 
