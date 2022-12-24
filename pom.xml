@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>CollectionsReview</module>
+        <module>dsa_01_AlgoritmAnalysis</module>
     </modules>
 
     <properties>
