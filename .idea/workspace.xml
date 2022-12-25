@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 3 &#10;LinkedList">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/MySingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/MySingleLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/SinglyLinkedList.java" afterDir="false" />
     </list>
@@ -164,7 +165,7 @@
       <workItem from="1671256760426" duration="596000" />
       <workItem from="1671912611630" duration="5519000" />
       <workItem from="1671918171216" duration="439000" />
-      <workItem from="1671963450879" duration="3426000" />
+      <workItem from="1671963450879" duration="6749000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
       <created>1671215975713</created>
@@ -285,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671970114390</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Dsa 3 &#10;LinkedList">
+      <created>1671970269798</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1671970269798</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
