@@ -27,11 +27,12 @@ public class MySingleLinkedList {
         Node current = head;
         while (current != null) {
             if (current.next == null) {
-                System.out.println(current.id + " => null");
-            }
-            System.out.println(current.id + " =>");
-            current = current.next;
+                System.out.print(current.id + " => null");
+            } else {
+                System.out.print(current.id + " =>");
 
+            }
+            current = current.next;
         }
     }
 }
