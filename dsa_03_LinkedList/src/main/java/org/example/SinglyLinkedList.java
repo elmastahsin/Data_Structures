@@ -14,5 +14,17 @@ public class SinglyLinkedList {
         }
 
         myList.printNodes();
+
+        myList.deleteById(0);
+        System.out.println();
+        myList.printNodes();
+
+        myList.deleteById(2);
+        System.out.println();
+        myList.printNodes();
+
+        myList.deleteById(9);
+        System.out.println();
+        myList.printNodes();
     }
 }
