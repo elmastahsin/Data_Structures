@@ -15,12 +15,11 @@ public class MySingleLinkedList {
         Node node = new Node(data);
         if (isEmpty()) {// if the list is empty
             head = tail = node;
-            size++;
         } else { // if there are elements in the list
             tail.next = node;
             tail = node;
-            size++;
         }
+        size++;
     }
 void deleteById(int id){
         //check if empty
@@ -54,6 +53,23 @@ void deleteById(int id){
         previous = current;
         current = current.next;
     }
+}
+int indexOf(int id){
+        if (isEmpty()){
+            return -1;
+        }
+        int position=0;
+        // iterate through the list
+    Node current = head; // set my current with starting element
+
+    while(current!=null){
+        if (current.id == id){
+            return position;
+        }
+        position++;
+        current=current.next;
+    }
+    return -1;
 }
     void printNodes() {
         Node current = head;

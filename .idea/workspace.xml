@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 3 &#10;LinkedList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/MySingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/MySingleLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +166,7 @@
       <workItem from="1671918171216" duration="439000" />
       <workItem from="1671963450879" duration="8923000" />
       <workItem from="1671997184111" duration="681000" />
+      <workItem from="1672042807108" duration="1959000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
       <created>1671215975713</created>
@@ -306,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671985728542</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Dsa 3 &#10;LinkedList">
+      <created>1672043020269</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1672043020269</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
