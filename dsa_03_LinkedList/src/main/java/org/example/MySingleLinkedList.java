@@ -21,6 +21,10 @@ public class MySingleLinkedList {
         }
         size++;
     }
+
+    void addFirst(int data){
+
+    }
 void deleteById(int id){
         //check if empty
     if (isEmpty()){

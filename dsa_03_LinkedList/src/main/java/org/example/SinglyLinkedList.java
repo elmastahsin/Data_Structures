@@ -26,5 +26,8 @@ public class SinglyLinkedList {
         myList.deleteById(9);
         System.out.println();
         myList.printNodes();
+        System.out.println();
+
+        System.out.println("İndex of id 6: " + myList.indexOf(6));
     }
 }
