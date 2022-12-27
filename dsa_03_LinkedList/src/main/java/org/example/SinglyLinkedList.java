@@ -29,5 +29,16 @@ public class SinglyLinkedList {
         System.out.println();
 
         System.out.println("İndex of id 6: " + myList.indexOf(6));
+        myList.printNodes();
+        System.out.println();
+        System.out.println("*********");
+
+
+        myList.add(12);
+        myList.printNodes();
+        System.out.println();
+        System.out.println("*********");
+        myList.addFirst(12);
+        myList.printNodes();
     }
 }
