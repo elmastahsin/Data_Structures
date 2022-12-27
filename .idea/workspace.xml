@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 3 &#10;LinkedList&#10;indexOf method" />
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 3 &#10;LinkedList&#10;indexOf method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,6 +167,7 @@
       <workItem from="1671997184111" duration="681000" />
       <workItem from="1672042807108" duration="3974000" />
       <workItem from="1672077234239" duration="616000" />
+      <workItem from="1672121011121" duration="740000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
       <created>1671215975713</created>
@@ -334,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672089097555</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Dsa 3 &#10;LinkedList&#10;indexOf method">
+      <created>1672121336334</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1672121336334</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
