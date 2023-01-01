@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 4&#10;Stack&#10;MyStack">
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 4&#10;Stack&#10;MyStack&#10;ExpressionBalanceCheck">
+      <change afterPath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/RecursiveFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/SunSetQuestion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/ExpressionBalanceCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/ExpressionBalanceCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExpressionBalanceCheck">
+  <component name="RunManager" selected="Application.RecursiveFibonacci">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
@@ -117,9 +118,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.LinkedListDemo" />
-      <module name="dsa_03_LinkedList" />
+    <configuration name="RecursiveFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.RecursiveFibonacci" />
+      <module name="dsa_04_Stacks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -158,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursiveFibonacci" />
         <item itemvalue="Application.ExpressionBalanceCheck" />
         <item itemvalue="Application.CollectionStack" />
         <item itemvalue="Application.StackApp" />
         <item itemvalue="Application.SinglyLinkedList" />
-        <item itemvalue="Application.LinkedListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +185,7 @@
       <workItem from="1672077234239" duration="616000" />
       <workItem from="1672121011121" duration="1120000" />
       <workItem from="1672122197669" duration="3722000" />
-      <workItem from="1672570852146" duration="7225000" />
+      <workItem from="1672570852146" duration="9510000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
       <created>1671215975713</created>
@@ -403,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672581859933</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Dsa 4&#10;Stack&#10;MyStack&#10;ExpressionBalanceCheck">
+      <created>1672586315234</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1672586315234</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +429,8 @@
     <MESSAGE value="Dsa 3 &#10;LinkedList&#10;indexOf method" />
     <MESSAGE value="Dsa 3 &#10;LinkedList&#10;addFirst method" />
     <MESSAGE value="Dsa 4&#10;Stack&#10;MyStack" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 4&#10;Stack&#10;MyStack" />
+    <MESSAGE value="Dsa 4&#10;Stack&#10;MyStack&#10;ExpressionBalanceCheck" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 4&#10;Stack&#10;MyStack&#10;ExpressionBalanceCheck" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -435,6 +444,11 @@
           <url>file://$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/MySingleLinkedList.java</url>
           <line>65</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/ExpressionBalanceCheck.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
