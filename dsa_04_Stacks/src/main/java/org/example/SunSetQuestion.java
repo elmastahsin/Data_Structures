@@ -1,17 +1,38 @@
 package org.example;
 
 import java.util.ArrayList;
+import java.util.Deque;
+import java.util.LinkedList;
+import java.util.Stack;
 
 public class SunSetQuestion {
     public static void main(String[] args) {
         int[] buildings = {3, 5, 4, 4, 3, 1, 3, 2};
-        sunsetViews(buildings, "EAST").forEach(System.out::println);
+        sunsetViews(buildings, "west").forEach(System.out::println);
     }
 
     public static ArrayList<Integer> sunsetViews(int[] buildings, String direction) {
+        Stack<Integer> stack = new Stack<>();
 
 
-        return new ArrayList<>();
+        if (direction.equalsIgnoreCase("EAST")) {
+            for (int i = 0; i < buildings.length; i++) {
+                while (!stack.isEmpty() && buildings[i] >= buildings[stack.peek()]) {
+                    stack.pop();
+                }
+                stack.push(i);
+
+            }
+        } else {
+            for (int i = buildings.length - 1; i >= 0; i--) {
+                while (!stack.isEmpty() && buildings[i] >= buildings[stack.peek()]) {
+                    stack.pop();
+                }
+                stack.push(i);
+            }
+        }
+
+        return new ArrayList<>(stack);
     }
 }
 /*Given an array of buildings and a direction
