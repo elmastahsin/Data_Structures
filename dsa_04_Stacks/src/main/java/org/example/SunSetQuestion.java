@@ -17,21 +17,39 @@ public class SunSetQuestion {
 
         if (direction.equalsIgnoreCase("EAST")) {
             for (int i = 0; i < buildings.length; i++) {
-                while (!stack.isEmpty() && buildings[i] >= buildings[stack.peek()]) {
+                if (stack.isEmpty()) {
+                    stack.push(i);
+                } else if (buildings[stack.peek()] <= buildings[i]) {
                     stack.pop();
+                    if (!stack.isEmpty() && buildings[stack.peek()] <= buildings[i]) {
+                        stack.pop();
+                    }
+                    stack.push(i);
+                    continue;
+                } else {
+                    stack.push(i);
                 }
-                stack.push(i);
+
 
             }
         } else {
             for (int i = buildings.length - 1; i >= 0; i--) {
-                while (!stack.isEmpty() && buildings[i] >= buildings[stack.peek()]) {
+                if (stack.isEmpty()) {
+                    stack.push(i);
+                } else if (buildings[stack.peek()] <= buildings[i]) {
                     stack.pop();
+                    if (!stack.isEmpty() && buildings[stack.peek()] <= buildings[i]) {
+                        stack.pop();
+                    }
+                    stack.push(i);
+                    continue;
+                } else {
+                    stack.push(i);
                 }
-                stack.push(i);
+
+
             }
         }
-
         return new ArrayList<>(stack);
     }
 }

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 4&#10;RecursiveFibonacci&#10;and Stack Algorithm">
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 4&#10;SunSetViews">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/SunSetQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/SunSetQuestion.java" afterDir="false" />
     </list>
@@ -77,7 +77,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SunSetQuestion">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
@@ -185,7 +185,7 @@
       <workItem from="1672121011121" duration="1120000" />
       <workItem from="1672122197669" duration="3722000" />
       <workItem from="1672570852146" duration="9746000" />
-      <workItem from="1672590942132" duration="2006000" />
+      <workItem from="1672590942132" duration="3419000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
       <created>1671215975713</created>
@@ -418,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672590795977</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Dsa 4&#10;SunSetViews">
+      <created>1672592998919</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1672592998919</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,7 +445,8 @@
     <MESSAGE value="Dsa 4&#10;Stack&#10;MyStack" />
     <MESSAGE value="Dsa 4&#10;Stack&#10;MyStack&#10;ExpressionBalanceCheck" />
     <MESSAGE value="Dsa 4&#10;RecursiveFibonacci&#10;and Stack Algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 4&#10;RecursiveFibonacci&#10;and Stack Algorithm" />
+    <MESSAGE value="Dsa 4&#10;SunSetViews" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 4&#10;SunSetViews" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
