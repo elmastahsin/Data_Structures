@@ -40,5 +40,10 @@ public class SinglyLinkedList {
         System.out.println("*********");
         myList.addFirst(12);
         myList.printNodes();
+        System.out.println();
+
+        System.out.println("kth item from last: " + myList.getKthItemFromLast(3));
+        myList.deleteKthItemFromLast(3);
+        myList.printNodes();
     }
 }

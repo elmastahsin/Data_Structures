@@ -10,14 +10,63 @@ public class MySingleLinkedList {
         return head == null;
     }
 
+    public int getKthItemFromLast(int k) {
+        //create two pointers
+        Node ptr1 = head;
+        Node ptr2 = head;
+        //move ptr2 k-1 items
+        for (int i = 0; i < k - 1; i++) {
+            ptr2 = ptr2.next;
+        }
+        // move both pointers until ptr2 hits the last element
+        while (ptr2.next != null) {
+            ptr1 = ptr1.next;
+            ptr2 = ptr2.next;
+        }
+        //ptr1 is on the kth elemnet from last
+        return ptr1.id;
+
+    }
+
+    public void deleteKthItemFromLast(int k) {
+        // create three pointer
+        Node ptr1 = head;
+        Node ptr2 = head;
+        Node prev = null;
+        //
+        for (int i = 0; i < k - 1; i++) {
+            ptr2 = ptr2.next;
+        }
+        //
+        while (ptr2.next != null) {
+            prev = ptr1;
+            ptr1 = ptr1.next;
+            ptr2 = ptr2.next;
+        }
+        if (ptr1 == head) {
+            head = ptr1.next;
+            ptr1.next = null;
+            size--;
+        } else if (ptr1 == tail) {
+            tail = prev;
+            prev.next = null;
+            size--;
+
+        } else {
+            prev.next = ptr1.next;
+            ptr1.next = null;
+            size--;
+        }
+    }
+
     void addFirst(int data) {
         Node node = new Node(data);
 
         if (isEmpty()) {
             head = tail = node;
         } else {
-        node.next= head;
-        head=node;
+            node.next = head;
+            head = node;
         }
         size++;
 
