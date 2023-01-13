@@ -8,7 +8,7 @@ import java.util.Stack;
 public class SunSetQuestion {
     public static void main(String[] args) {
         int[] buildings = {3, 5, 4, 4, 3, 1, 3, 2};
-        sunsetViews(buildings, "west").forEach(System.out::println);
+        sunsetViews(buildings, "east").forEach(System.out::println);
     }
 
     public static ArrayList<Integer> sunsetViews(int[] buildings, String direction) {
