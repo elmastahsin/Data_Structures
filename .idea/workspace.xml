@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 4&#10;SunSetViews">
+      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/printMiddleLL/MySinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/printMiddleLL/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/printMiddleLL/PrintMiddleNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/SunSetQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/SunSetQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +82,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SunSetQuestion">
+  <component name="RunManager" selected="Application.PrintMiddleNode">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
@@ -117,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.RecursiveFibonacci" />
-      <module name="dsa_04_Stacks" />
+    <configuration name="PrintMiddleNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.printMiddleLL.PrintMiddleNode" />
+      <module name="dsa_05_AlgorithmProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.printMiddleLL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StackApp" />
+    <configuration name="RecursiveFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.RecursiveFibonacci" />
       <module name="dsa_04_Stacks" />
       <extension name="coverage">
         <pattern>
@@ -158,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintMiddleNode" />
         <item itemvalue="Application.SunSetQuestion" />
         <item itemvalue="Application.RecursiveFibonacci" />
         <item itemvalue="Application.ExpressionBalanceCheck" />
         <item itemvalue="Application.CollectionStack" />
-        <item itemvalue="Application.StackApp" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +198,8 @@
       <workItem from="1673451823283" duration="463000" />
       <workItem from="1673452339986" duration="94000" />
       <workItem from="1673452479417" duration="606000" />
+      <workItem from="1673625590959" duration="4257000" />
+      <workItem from="1673683163537" duration="832000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
       <created>1671215975713</created>
@@ -439,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672594466253</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Dsa 4&#10;SunSetViews">
+      <created>1673629264159</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1673629264159</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
