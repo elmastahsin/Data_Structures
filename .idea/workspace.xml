@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 5&#10;ProblemSolving">
-      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/reverseLinkedList/MySinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/reverseLinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/reverseLinkedList/ReverseLinkedListSolution.java" afterDir="false" />
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 5&#10;ProblemSolving ReverseLinkedListSolution">
+      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/mergeTwoSortedLL/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/mergeTwoSortedLL/MergeTwoSortedListSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseLinkedListSolution">
+  <component name="RunManager" selected="Application.ArrayListReview">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
@@ -196,7 +195,8 @@
       <workItem from="1673452339986" duration="94000" />
       <workItem from="1673452479417" duration="606000" />
       <workItem from="1673625590959" duration="4257000" />
-      <workItem from="1673683163537" duration="4898000" />
+      <workItem from="1673683163537" duration="6509000" />
+      <workItem from="1673720892890" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
       <created>1671215975713</created>
@@ -471,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673698134770</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Dsa 5&#10;ProblemSolving ReverseLinkedListSolution">
+      <created>1673700620454</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1673700620454</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,7 +501,8 @@
     <MESSAGE value="Dsa 4&#10;SunSetViews" />
     <MESSAGE value="Dsa 5&#10;Print Middle Node" />
     <MESSAGE value="Dsa 5&#10;ProblemSolving" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 5&#10;ProblemSolving" />
+    <MESSAGE value="Dsa 5&#10;ProblemSolving ReverseLinkedListSolution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 5&#10;ProblemSolving ReverseLinkedListSolution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
