@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 4&#10;SunSetViews">
-      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/printMiddleLL/MySinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/printMiddleLL/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/printMiddleLL/PrintMiddleNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 5&#10;Print Middle Node">
+      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/findCycleLL/FindCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/findCycleLL/ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrintMiddleNode">
+  <component name="RunManager">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
@@ -199,7 +195,7 @@
       <workItem from="1673452339986" duration="94000" />
       <workItem from="1673452479417" duration="606000" />
       <workItem from="1673625590959" duration="4257000" />
-      <workItem from="1673683163537" duration="832000" />
+      <workItem from="1673683163537" duration="2328000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
       <created>1671215975713</created>
@@ -453,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673629264159</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Dsa 5&#10;Print Middle Node">
+      <created>1673694238923</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1673694238923</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +477,8 @@
     <MESSAGE value="Dsa 4&#10;Stack&#10;MyStack&#10;ExpressionBalanceCheck" />
     <MESSAGE value="Dsa 4&#10;RecursiveFibonacci&#10;and Stack Algorithm" />
     <MESSAGE value="Dsa 4&#10;SunSetViews" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 4&#10;SunSetViews" />
+    <MESSAGE value="Dsa 5&#10;Print Middle Node" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 5&#10;Print Middle Node" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -508,6 +512,11 @@
           <url>file://$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/SunSetQuestion.java</url>
           <line>17</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/printMiddleLL/PrintMiddleNode.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
