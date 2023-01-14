@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 5&#10;Print Middle Node">
-      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/findCycleLL/FindCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/findCycleLL/ListNode.java" afterDir="false" />
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 5&#10;ProblemSolving">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/findCycleLL/FindCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/findCycleLL/FindCycle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,23 +77,10 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.FindCycle">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectionStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CollectionStack" />
-      <module name="dsa_04_Stacks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -111,6 +97,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.findCycleLL.FindCycle" />
+      <module name="dsa_05_AlgorithmProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.findCycleLL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindCycle" />
         <item itemvalue="Application.PrintMiddleNode" />
         <item itemvalue="Application.SunSetQuestion" />
         <item itemvalue="Application.RecursiveFibonacci" />
         <item itemvalue="Application.ExpressionBalanceCheck" />
-        <item itemvalue="Application.CollectionStack" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +194,7 @@
       <workItem from="1673452339986" duration="94000" />
       <workItem from="1673452479417" duration="606000" />
       <workItem from="1673625590959" duration="4257000" />
-      <workItem from="1673683163537" duration="2328000" />
+      <workItem from="1673683163537" duration="3441000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
       <created>1671215975713</created>
@@ -456,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673694238923</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Dsa 5&#10;ProblemSolving">
+      <created>1673696135167</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1673696135167</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,7 +484,8 @@
     <MESSAGE value="Dsa 4&#10;RecursiveFibonacci&#10;and Stack Algorithm" />
     <MESSAGE value="Dsa 4&#10;SunSetViews" />
     <MESSAGE value="Dsa 5&#10;Print Middle Node" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 5&#10;Print Middle Node" />
+    <MESSAGE value="Dsa 5&#10;ProblemSolving" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 5&#10;ProblemSolving" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
