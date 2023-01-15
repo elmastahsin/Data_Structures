@@ -3,19 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.example</groupId>
+        <artifactId>Data_Structures</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
-    <groupId>org.example</groupId>
-    <artifactId>Data_Structures</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>dsa_02_CollectionsReview</module>
-        <module>dsa_01_AlgoritmAnalysis</module>
-        <module>dsa_03_LinkedList</module>
-        <module>dsa_04_Stacks</module>
-        <module>dsa_05_AlgorithmProblems</module>
-        <module>dsa_6_Queues_Hashing</module>
-    </modules>
+    <artifactId>dsa_6_Queues_Hashing</artifactId>
 
     <properties>
         <maven.compiler.source>18</maven.compiler.source>
