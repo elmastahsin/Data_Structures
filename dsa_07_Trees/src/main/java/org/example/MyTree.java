@@ -79,7 +79,21 @@ public class MyTree {
         }
     }
 
-    void delete(TNode root){
+        void delete(TNode root){
+        // case 1 no child
+
+
+
+        // case 2 one child
+
+
+
+        // case 2 two children
+
+
+
+
+
 
 
 
