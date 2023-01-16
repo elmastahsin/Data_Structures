@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 6 Queues-Hashing">
-      <change afterPath="$PROJECT_DIR$/dsa_6_Queues_Hashing/src/main/java/org/example/queueQuestion/ReverseKthElementInQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_6_Queues_Hashing/src/main/java/org/example/queueQuestion/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_6_Queues_Hashing/src/main/java/org/example/queueQuestion/QNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_6_Queues_Hashing/src/main/java/org/example/CollectionsQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_6_Queues_Hashing/src/main/java/org/example/CollectionsQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_6_Queues_Hashing/src/main/java/org/example/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_6_Queues_Hashing/src/main/java/org/example/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_6_Queues_Hashing/src/main/java/org/example/queueQuestion/ReverseKthElementInQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_6_Queues_Hashing/src/main/java/org/example/queueQuestion/ReverseKthElementInQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CollectionsQueue">
+  <component name="RunManager" selected="Application.ReverseKthElementInQueue">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
@@ -132,6 +132,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseKthElementInQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.queueQuestion.ReverseKthElementInQueue" />
+      <module name="dsa_6_Queues_Hashing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.queueQuestion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseLinkedListSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.reverseLinkedList.ReverseLinkedListSolution" />
       <module name="dsa_05_AlgorithmProblems" />
@@ -145,26 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SunSetQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.SunSetQuestion" />
-      <module name="dsa_04_Stacks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseKthElementInQueue" />
         <item itemvalue="Application.CollectionsQueue" />
         <item itemvalue="Application.ReverseLinkedListSolution" />
         <item itemvalue="Application.FindCycle" />
         <item itemvalue="Application.PrintMiddleNode" />
-        <item itemvalue="Application.SunSetQuestion" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +198,7 @@
       <workItem from="1673625590959" duration="4257000" />
       <workItem from="1673683163537" duration="6509000" />
       <workItem from="1673720892890" duration="4691000" />
-      <workItem from="1673767369677" duration="7316000" />
+      <workItem from="1673767369677" duration="9110000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
       <created>1671215975713</created>
@@ -515,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673785793325</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Dsa 6 Queues-Hashing">
+      <created>1673857902390</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1673857902390</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>dsa_6_Queues_Hashing</artifactId>
+    <artifactId>dsa_07_Trees</artifactId>
 
     <properties>
         <maven.compiler.source>18</maven.compiler.source>
