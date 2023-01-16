@@ -90,7 +90,22 @@ public class MyTree {
         }
         return false;
     }
+    public boolean isLeaf(TNode node){
+        return node.leftChild==null && node.rightChild==null;
+    }
+public void printLeaves(TNode root){
+        if (root==null)return;
+    if (isLeaf(root)) System.out.print(root.value + " ");
+    printLeaves(root.leftChild);
 
+    printLeaves(root.rightChild);
+
+
+
+
+
+
+}
         void delete(TNode root){
         // case 1 no child
 
