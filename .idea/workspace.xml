@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 7 Tree">
-      <change afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/MyTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TNode.java" afterDir="false" />
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 7 TreeImplementation">
+      <change afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TreeApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +76,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseKthElementInQueue">
+  <component name="RunManager" selected="Application.TreeApp">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
@@ -119,19 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintMiddleNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.printMiddleLL.PrintMiddleNode" />
-      <module name="dsa_05_AlgorithmProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.printMiddleLL.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReverseKthElementInQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.queueQuestion.ReverseKthElementInQueue" />
       <module name="dsa_06_Queues_Hashing" />
@@ -158,13 +142,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TreeApp" />
+      <module name="dsa_07_Trees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeApp" />
         <item itemvalue="Application.ReverseKthElementInQueue" />
         <item itemvalue="Application.CollectionsQueue" />
         <item itemvalue="Application.ReverseLinkedListSolution" />
         <item itemvalue="Application.FindCycle" />
-        <item itemvalue="Application.PrintMiddleNode" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +195,7 @@
       <workItem from="1673625590959" duration="4257000" />
       <workItem from="1673683163537" duration="6509000" />
       <workItem from="1673720892890" duration="4691000" />
-      <workItem from="1673767369677" duration="9847000" />
+      <workItem from="1673767369677" duration="10216000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
       <created>1671215975713</created>
@@ -536,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673862785522</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Dsa 7 TreeImplementation">
+      <created>1673863298977</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1673863298977</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +567,8 @@
     <MESSAGE value="Dsa 5&#10;ProblemSolving" />
     <MESSAGE value="Dsa 6 Queues-Hashing" />
     <MESSAGE value="Dsa 7 Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 7 Tree" />
+    <MESSAGE value="Dsa 7 TreeImplementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 7 TreeImplementation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
