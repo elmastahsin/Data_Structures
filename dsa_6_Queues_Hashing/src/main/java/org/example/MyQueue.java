@@ -26,12 +26,14 @@ public class MyQueue<T> {
         size++;
     }
     T dequeue(){
-        QueueNode frontNode ;
+        QueueNode frontNode ;   
         if (isEmpty())throw new NoSuchElementException();
+        // for one elemnt in queue
         if (front==back){
             frontNode = front;
             front = back =null;
-        }else {
+        }// now I have more than one element
+        else {
             frontNode = front;
             front = front.next;
         }
