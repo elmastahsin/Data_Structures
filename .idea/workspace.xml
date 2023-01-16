@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 6 Queues-Hashing">
-      <change afterPath="$PROJECT_DIR$/dsa_6_Queues_Hashing/src/main/java/org/example/queueQuestion/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa_6_Queues_Hashing/src/main/java/org/example/queueQuestion/QNode.java" afterDir="false" />
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 7 Tree">
+      <change afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/MyTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_6_Queues_Hashing/src/main/java/org/example/queueQuestion/ReverseKthElementInQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_6_Queues_Hashing/src/main/java/org/example/queueQuestion/ReverseKthElementInQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,7 @@
     </configuration>
     <configuration name="CollectionsQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.CollectionsQueue" />
-      <module name="dsa_6_Queues_Hashing" />
+      <module name="dsa_06_Queues_Hashing" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -134,7 +134,7 @@
     </configuration>
     <configuration name="ReverseKthElementInQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.queueQuestion.ReverseKthElementInQueue" />
-      <module name="dsa_6_Queues_Hashing" />
+      <module name="dsa_06_Queues_Hashing" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.queueQuestion.*" />
@@ -198,7 +198,7 @@
       <workItem from="1673625590959" duration="4257000" />
       <workItem from="1673683163537" duration="6509000" />
       <workItem from="1673720892890" duration="4691000" />
-      <workItem from="1673767369677" duration="9110000" />
+      <workItem from="1673767369677" duration="9847000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm Analysis and Big O notation">
       <created>1671215975713</created>
@@ -522,7 +522,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673857902390</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Dsa 6 Queues-Hashing">
+      <created>1673862770198</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1673862770198</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Dsa 7 Tree">
+      <created>1673862785522</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1673862785522</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,7 +562,8 @@
     <MESSAGE value="Dsa 5&#10;ProblemSolving Merge Two Sorted LinkedList" />
     <MESSAGE value="Dsa 5&#10;ProblemSolving" />
     <MESSAGE value="Dsa 6 Queues-Hashing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 6 Queues-Hashing" />
+    <MESSAGE value="Dsa 7 Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 7 Tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
