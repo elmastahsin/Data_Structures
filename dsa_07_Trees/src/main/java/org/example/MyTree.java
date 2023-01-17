@@ -132,6 +132,13 @@ public class MyTree {
         if (node == null) return 0;
         return A + sumOfNodesDepth(node.leftChild, A + 1) + sumOfNodesDepth(node.rightChild, A + 1);
     }
+    int sumOfNodes(TNode node, int sum    ) {
+        if (node == null) return 0;
+        return sum + sumOfNodes(node.leftChild, node.value) + sumOfNodes(node.rightChild, node.value);
+    }
+    public int calculateNodeSums() {
+        return sumOfNodes(root, root.value);
+    }
 
     void delete(TNode root) {
         // case 1 no child

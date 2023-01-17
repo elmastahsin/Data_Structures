@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 7 TreeImplementation">
-      <change afterPath="$PROJECT_DIR$/dsa_08_Heap/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa_08_Heap/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/MyTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/MyTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TreeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TreeApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,14 +199,7 @@
       <workItem from="1673683163537" duration="6509000" />
       <workItem from="1673720892890" duration="4691000" />
       <workItem from="1673767369677" duration="22747000" />
-      <workItem from="1673943868368" duration="6723000" />
-    </task>
-    <task id="LOCAL-00007" summary="MAP  review">
-      <created>1671915798744</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1671915798744</updated>
+      <workItem from="1673943868368" duration="9899000" />
     </task>
     <task id="LOCAL-00008" summary="MAP  review&#10;First Nonrepeating Char">
       <created>1671916914394</created>
@@ -547,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673907635733</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Dsa 7 TreeImplementation">
+      <created>1673979762706</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1673979762708</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
