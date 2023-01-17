@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 7 TreeImplementation">
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 8 Heap">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/MyTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/MyTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TreeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TreeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_08_Heap/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_08_Heap/src/main/java/org/example/HeapApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_08_Heap/src/main/java/org/example/MyHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_08_Heap/src/main/java/org/example/MyHeap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TreeApp">
+  <component name="RunManager" selected="Application.HeapApp">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
@@ -106,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.findCycleLL.FindCycle" />
-      <module name="dsa_05_AlgorithmProblems" />
+    <configuration name="HeapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HeapApp" />
+      <module name="dsa_08_Heap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.findCycleLL.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeapApp" />
         <item itemvalue="Application.TreeApp" />
         <item itemvalue="Application.ReverseKthElementInQueue" />
         <item itemvalue="Application.CollectionsQueue" />
         <item itemvalue="Application.ReverseLinkedListSolution" />
-        <item itemvalue="Application.FindCycle" />
       </list>
     </recent_temporary>
   </component>
@@ -199,21 +199,7 @@
       <workItem from="1673683163537" duration="6509000" />
       <workItem from="1673720892890" duration="4691000" />
       <workItem from="1673767369677" duration="22747000" />
-      <workItem from="1673943868368" duration="9899000" />
-    </task>
-    <task id="LOCAL-00008" summary="MAP  review&#10;First Nonrepeating Char">
-      <created>1671916914394</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1671916914394</updated>
-    </task>
-    <task id="LOCAL-00009" summary="MAP  review&#10;First Nonrepeating Char">
-      <created>1671917407384</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1671917407384</updated>
+      <workItem from="1673943868368" duration="12465000" />
     </task>
     <task id="LOCAL-00010" summary="Dsa 2 &#10;Collections Reviews">
       <created>1671917556748</created>
@@ -544,7 +530,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673979762708</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Dsa 7 TreeImplementation">
+      <created>1673985211030</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1673985211030</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Dsa 8 Heap">
+      <created>1673985566818</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1673985566819</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +572,8 @@
     <MESSAGE value="Dsa 6 Queues-Hashing" />
     <MESSAGE value="Dsa 7 Tree" />
     <MESSAGE value="Dsa 7 TreeImplementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 7 TreeImplementation" />
+    <MESSAGE value="Dsa 8 Heap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 8 Heap" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
