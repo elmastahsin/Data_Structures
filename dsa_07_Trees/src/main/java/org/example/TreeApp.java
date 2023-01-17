@@ -26,11 +26,14 @@ public class TreeApp {
         System.out.println();
         System.out.println("is contains 8 " + tree.contains(8));
         tree.printLeaves(tree.root);
+
         System.out.println();
-//        System.out.println();
-//        System.out.println("Number of leaves:  " +tree.countLeaves(tree.root));
-//        System.out.println("Sum of Leaf Nodes: " + tree.findSumOfLeaves(tree.root));
-//        System.out.println("Height of the tree is: "+ tree.height(tree.root));
+
+        System.out.println("Number of leaves:  " + tree.countLeaves(tree.root));
+        tree.printLeaves(tree.root);
+        System.out.println();
+        System.out.println("Sum of Leaf Nodes: " + tree.findSumOfLeaves(tree.root));
+        System.out.println("Height of the tree is: " + tree.height(tree.root));
 //        // System.out.println("Sum of Node Depths is: " + tree.calculateNodeDepthSums());
 //        System.out.println("Sum of all node values is: " + tree.calculateNodeSums());
 
