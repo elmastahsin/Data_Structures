@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 8 Heap" />
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 8 Heap">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,14 +197,8 @@
       <workItem from="1673683163537" duration="6509000" />
       <workItem from="1673720892890" duration="4691000" />
       <workItem from="1673767369677" duration="22747000" />
-      <workItem from="1673943868368" duration="13193000" />
-    </task>
-    <task id="LOCAL-00011" summary="Dsa 2 &#10;Collections Reviews">
-      <created>1671917789119</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1671917789119</updated>
+      <workItem from="1673943868368" duration="13823000" />
+      <workItem from="1674029359526" duration="4901000" />
     </task>
     <task id="LOCAL-00012" summary="Dsa 2 &#10;Collections Reviews">
       <created>1671918143917</created>
@@ -540,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673996344747</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Dsa 8 Heap">
+      <created>1673997476252</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1673997476252</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -629,11 +632,6 @@
           <url>file://$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/RecursiveFibonacci.java</url>
           <line>13</line>
           <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TreeApp.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/MyTree.java</url>
