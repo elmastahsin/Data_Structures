@@ -16,6 +16,8 @@ public class KthLargestElementInAnArray {
         int k = input.nextInt();
 
         System.out.println(findKthLargest(nums, k));
+        System.out.println(findKthLargest2(nums, k));
+
     }
 
     public static int findKthLargest(int[] nums, int k) {
@@ -37,7 +39,7 @@ public class KthLargestElementInAnArray {
         for (int i = 0; i < nums.length; i++) {
             result.add(nums[i]);
         }
-        for (int i = 0; i < k - 1; i++) {
+        for (int i = 0; i < nums.length-k; i++) {
             result.remove();
         }
 
