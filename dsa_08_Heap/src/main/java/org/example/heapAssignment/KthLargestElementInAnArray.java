@@ -20,15 +20,15 @@ public class KthLargestElementInAnArray {
 
     public static int findKthLargest(int[] nums, int k) {
 // create a heap
-        Queue<Integer> result = new PriorityQueue<>();
+        MyHeap heap = new MyHeap(nums.length);
         for (int i = 0; i < nums.length; i++) {
-            result.add(nums[i]);
+            heap.insert(nums[i]);
         }
         for (int i = 0; i < k - 1; i++) {
-            result.remove();
+            heap.remove();
         }
 
 
-        return result.peek();
+        return heap.peek();
     }
 }
