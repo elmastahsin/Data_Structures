@@ -17,6 +17,7 @@
         <module>dsa_06_Queues_Hashing</module>
         <module>dsa_07_Trees</module>
         <module>dsa_08_Heap</module>
+        <module>dsa_09_Searching_Algorithm</module>
     </modules>
 
     <properties>
