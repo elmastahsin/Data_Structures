@@ -31,4 +31,17 @@ public class KthLargestElementInAnArray {
 
         return heap.peek();
     }
+    public static int findKthLargest2(int[] nums, int k) {
+// create a heap
+       Queue<Integer> result = new PriorityQueue<>();
+        for (int i = 0; i < nums.length; i++) {
+            result.add(nums[i]);
+        }
+        for (int i = 0; i < k - 1; i++) {
+            result.remove();
+        }
+
+
+        return result.peek();
+    }
 }
