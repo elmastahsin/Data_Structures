@@ -28,7 +28,7 @@ public class MyHeap {
     public void bubbleUp() {
         // calculate start index
         int index = size - 1;
-        // while index >0 %% parent is less than child continue...
+        // while index > 0 && parent is less than child continue...
         // 1. swap child and parent
         // calculate next index = parent index
         while (index > 0 && items[index] > items[parentIndex(index)]) {
