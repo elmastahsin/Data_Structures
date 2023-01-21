@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/SearchingAlgorithms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -204,14 +203,7 @@
       <workItem from="1674204524735" duration="94000" />
       <workItem from="1674204625867" duration="1876000" />
       <workItem from="1674208064504" duration="3144000" />
-      <workItem from="1674234512671" duration="2374000" />
-    </task>
-    <task id="LOCAL-00017" summary="Dsa 3 &#10;LinkedList">
-      <created>1671970114390</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1671970114390</updated>
+      <workItem from="1674234512671" duration="3639000" />
     </task>
     <task id="LOCAL-00018" summary="Dsa 3 &#10;LinkedList">
       <created>1671970269798</created>
@@ -549,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674235327762</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Dsa 8 Heap Implementation">
+      <created>1674237325784</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1674237325784</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
