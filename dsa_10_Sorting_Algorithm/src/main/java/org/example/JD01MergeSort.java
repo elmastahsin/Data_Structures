@@ -12,7 +12,7 @@ public class JD01MergeSort {
         }
         int[] right = new int[array.length - mid];
         for (int i = mid; i < array.length; i++) {
-            right[i] = array[i];
+            right[i-mid] = array[i];
         }
         mergeSort(left);
         mergeSort(right);
