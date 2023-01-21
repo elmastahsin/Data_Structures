@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/JD01MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/JD01MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/SortingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/SortingTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,21 +205,7 @@
       <workItem from="1674204524735" duration="94000" />
       <workItem from="1674204625867" duration="1876000" />
       <workItem from="1674208064504" duration="3144000" />
-      <workItem from="1674234512671" duration="15519000" />
-    </task>
-    <task id="LOCAL-00030" summary="Dsa 4&#10;Stack&#10;MyStack">
-      <created>1672579979386</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1672579979386</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Dsa 4&#10;Stack&#10;MyStack">
-      <created>1672581859933</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1672581859933</updated>
+      <workItem from="1674234512671" duration="17238000" />
     </task>
     <task id="LOCAL-00032" summary="Dsa 4&#10;Stack&#10;MyStack&#10;ExpressionBalanceCheck">
       <created>1672586315234</created>
@@ -549,7 +536,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674312473197</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Dsa 10 SortingAlgorithm&#10;MergeSort">
+      <created>1674313548922</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1674313548922</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Dsa 10 SortingAlgorithm&#10;MergeSort">
+      <created>1674313887665</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1674313887665</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +569,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Dsa 3 &#10;LinkedList" />
     <MESSAGE value="Dsa 3 &#10;LinkedList&#10;indexOf method" />
     <MESSAGE value="Dsa 3 &#10;LinkedList&#10;addFirst method" />
     <MESSAGE value="Dsa 4&#10;Stack&#10;MyStack" />
@@ -593,7 +593,8 @@
     <MESSAGE value="Dsa 9 SearchAlgorithm&#10;TaskSearchAlgorithm" />
     <MESSAGE value="Dsa 10 SortingAlgorithm&#10;SelectionSort" />
     <MESSAGE value="Dsa 10 SortingAlgorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 10 SortingAlgorithm" />
+    <MESSAGE value="Dsa 10 SortingAlgorithm&#10;MergeSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 10 SortingAlgorithm&#10;MergeSort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,6 +1,6 @@
 package org.example;
 
-public class JD01MergeSort {
+public class MergeSort {
 
 
     public static void mergeSort(int[] array) {
