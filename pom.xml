@@ -18,6 +18,7 @@
         <module>dsa_07_Trees</module>
         <module>dsa_08_Heap</module>
         <module>dsa_09_Searching_Algorithm</module>
+        <module>dsa_10_Sorting_Algorithm</module>
     </modules>
 
     <properties>

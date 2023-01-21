@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/ExponentialSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/TaskSearchAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/TaskSolutions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/TaskSolutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/TaskSolutions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,10 +80,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TaskSolutions">
+  <component name="RunManager" selected="Application.SortingTest">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BubbleSort" />
+      <module name="dsa_10_Sorting_Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -107,9 +120,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JumpSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.JumpSearch" />
-      <module name="dsa_09_Searching_Algorithm" />
+    <configuration name="SortingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SortingTest" />
+      <module name="dsa_10_Sorting_Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -146,26 +159,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TernarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TernarySearch" />
-      <module name="dsa_09_Searching_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortingTest" />
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.TaskSolutions" />
         <item itemvalue="Application.TaskSearchAlgorithm" />
         <item itemvalue="Application.ExponentialSearch" />
-        <item itemvalue="Application.JumpSearch" />
-        <item itemvalue="Application.TernarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -206,14 +206,7 @@
       <workItem from="1674204524735" duration="94000" />
       <workItem from="1674204625867" duration="1876000" />
       <workItem from="1674208064504" duration="3144000" />
-      <workItem from="1674234512671" duration="10932000" />
-    </task>
-    <task id="LOCAL-00024" summary="Dsa 3 &#10;LinkedList&#10;indexOf method">
-      <created>1672089097555</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1672089097555</updated>
+      <workItem from="1674234512671" duration="11714000" />
     </task>
     <task id="LOCAL-00025" summary="Dsa 3 &#10;LinkedList&#10;indexOf method">
       <created>1672121336334</created>
@@ -551,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674302085970</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Dsa 9 SearchAlgorithm&#10;TaskSearchAlgorithm">
+      <created>1674307448481</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1674307448481</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +570,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="MAP  review" />
     <MESSAGE value="MAP  review&#10;First Nonrepeating Char" />
     <MESSAGE value="Dsa 2 &#10;Collections Reviews" />
     <MESSAGE value="Dsa 3 &#10;LinkedList" />
@@ -595,7 +594,8 @@
     <MESSAGE value="Dsa 9 SearchAlgorithm&#10;BinarySearch" />
     <MESSAGE value="Dsa 9 SearchAlgorithm&#10;TernarySearch" />
     <MESSAGE value="Dsa 9 SearchAlgorithm&#10;JumpSearch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 9 SearchAlgorithm&#10;JumpSearch" />
+    <MESSAGE value="Dsa 9 SearchAlgorithm&#10;TaskSearchAlgorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 9 SearchAlgorithm&#10;TaskSearchAlgorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
