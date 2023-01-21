@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/LinearSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/SearchingAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/SearchingAlgorithms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BinarySearch" />
+      <module name="dsa_09_Searching_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HeapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.HeapApp" />
       <module name="dsa_08_Heap" />
@@ -110,19 +126,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.heapAssignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseKthElementInQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.queueQuestion.ReverseKthElementInQueue" />
-      <module name="dsa_06_Queues_Hashing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.queueQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,10 +162,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SearchingAlgorithms" />
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.KthLargestElementInAnArray" />
         <item itemvalue="Application.HeapApp" />
         <item itemvalue="Application.TreeApp" />
-        <item itemvalue="Application.ReverseKthElementInQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -203,14 +206,7 @@
       <workItem from="1674204524735" duration="94000" />
       <workItem from="1674204625867" duration="1876000" />
       <workItem from="1674208064504" duration="3144000" />
-      <workItem from="1674234512671" duration="3639000" />
-    </task>
-    <task id="LOCAL-00018" summary="Dsa 3 &#10;LinkedList">
-      <created>1671970269798</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1671970269798</updated>
+      <workItem from="1674234512671" duration="4386000" />
     </task>
     <task id="LOCAL-00019" summary="Dsa 3 &#10;LinkedList">
       <created>1671982158665</created>
@@ -548,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674237325784</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Dsa 9 SearchAlgorithm">
+      <created>1674298420566</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1674298420567</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,7 +594,8 @@
     <MESSAGE value="Dsa 9 Searching Algorithm" />
     <MESSAGE value="Dsa 8 Heap Assignment" />
     <MESSAGE value="Dsa 8 Heap Implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 8 Heap Implementation" />
+    <MESSAGE value="Dsa 9 SearchAlgorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 9 SearchAlgorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
