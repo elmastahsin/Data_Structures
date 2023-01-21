@@ -1,19 +1,18 @@
 package org.example;
 
 public class InsertionSort {
-    public static int []selectionSort(int []array){
-        int [] result = new int[array.length];
-
-        for (int i = 0; i < array.length; i++) {
-            int min = array[i];
-            for (int j = i+1; j <array.length ; j++) {
-                if (min >array[j]){
-                    min=array[j];
-                }
+    public static int[] insertionSort(int[] array) {
+        for (int i = 1; i < array.length; i++) {
+            int toBeInserted = array[i];
+            int j = i - 1;// predecessor
+            // start shifting operation here
+            while (j >= 0 && toBeInserted < array[i]) {
+                array[j + 1] = array[j];
+                j--;
             }
-            result[i]=min;
+            array[j + 1] = toBeInserted;
 
         }
-        return result;
+        return array;
     }
 }
