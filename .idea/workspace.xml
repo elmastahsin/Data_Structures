@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/JD01MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/SortingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/SortingTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,14 +200,7 @@
       <workItem from="1674204524735" duration="94000" />
       <workItem from="1674204625867" duration="1876000" />
       <workItem from="1674208064504" duration="3144000" />
-      <workItem from="1674234512671" duration="17238000" />
-    </task>
-    <task id="LOCAL-00032" summary="Dsa 4&#10;Stack&#10;MyStack&#10;ExpressionBalanceCheck">
-      <created>1672586315234</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1672586315234</updated>
+      <workItem from="1674234512671" duration="17250000" />
     </task>
     <task id="LOCAL-00033" summary="Dsa 4&#10;RecursiveFibonacci&#10;and Stack Algorithm">
       <created>1672590795977</created>
@@ -550,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674313887665</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Dsa 10 SortingAlgorithm&#10;QuickSort">
+      <created>1674315275672</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1674315275672</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +564,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Dsa 3 &#10;LinkedList&#10;indexOf method" />
     <MESSAGE value="Dsa 3 &#10;LinkedList&#10;addFirst method" />
     <MESSAGE value="Dsa 4&#10;Stack&#10;MyStack" />
     <MESSAGE value="Dsa 4&#10;Stack&#10;MyStack&#10;ExpressionBalanceCheck" />
@@ -594,7 +588,8 @@
     <MESSAGE value="Dsa 10 SortingAlgorithm&#10;SelectionSort" />
     <MESSAGE value="Dsa 10 SortingAlgorithm" />
     <MESSAGE value="Dsa 10 SortingAlgorithm&#10;MergeSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 10 SortingAlgorithm&#10;MergeSort" />
+    <MESSAGE value="Dsa 10 SortingAlgorithm&#10;QuickSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 10 SortingAlgorithm&#10;QuickSort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
