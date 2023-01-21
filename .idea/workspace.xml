@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/TernarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +79,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.TernarySearch">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
@@ -143,9 +145,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TreeApp" />
-      <module name="dsa_07_Trees" />
+    <configuration name="TernarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TernarySearch" />
+      <module name="dsa_09_Searching_Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -158,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TernarySearch" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.SearchingAlgorithms" />
         <item itemvalue="Application.KthLargestElementInAnArray" />
         <item itemvalue="Application.HeapApp" />
-        <item itemvalue="Application.TreeApp" />
       </list>
     </recent_temporary>
   </component>
@@ -203,14 +205,7 @@
       <workItem from="1674204524735" duration="94000" />
       <workItem from="1674204625867" duration="1876000" />
       <workItem from="1674208064504" duration="3144000" />
-      <workItem from="1674234512671" duration="4830000" />
-    </task>
-    <task id="LOCAL-00020" summary="Dsa 3 &#10;LinkedList">
-      <created>1671985728542</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1671985728542</updated>
+      <workItem from="1674234512671" duration="5889000" />
     </task>
     <task id="LOCAL-00021" summary="Dsa 3 &#10;LinkedList">
       <created>1672043020269</created>
@@ -548,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674299129400</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Dsa 9 SearchAlgorithm&#10;BinarySearch">
+      <created>1674299693878</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1674299693878</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,7 +569,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Algorithm Analysis and Big O notation" />
     <MESSAGE value="ArrayList review" />
     <MESSAGE value="SET  review" />
     <MESSAGE value="MAP  review" />
@@ -592,7 +593,8 @@
     <MESSAGE value="Dsa 8 Heap Assignment" />
     <MESSAGE value="Dsa 8 Heap Implementation" />
     <MESSAGE value="Dsa 9 SearchAlgorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 9 SearchAlgorithm" />
+    <MESSAGE value="Dsa 9 SearchAlgorithm&#10;BinarySearch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 9 SearchAlgorithm&#10;BinarySearch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
