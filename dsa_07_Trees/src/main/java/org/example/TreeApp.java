@@ -1,15 +1,28 @@
 package org.example;
 
+import java.util.ArrayList;
+import java.util.Deque;
+import java.util.List;
+
 public class TreeApp {
     public static void main(String[] args) {
         MyTree tree = new MyTree();
         int[] numbers = new int[]{10, 6, 8, 20, 4, 9, 5, 17, 42, 47, 29};
+
         for (int i = 0; i < 11; i++) {
             tree.insert(numbers[i]);
         }
         tree.insert(7);
 
         VisualizeTree.printTree(tree.root, null, false);
+        List<TNode> list = new ArrayList<>();
+        while (tree.root != null) {
+            if (tree.isLeaf(tree.root)) {
+                list.add(tree.root);
+            }
+            tree.delete(tree.root);
+        }
+        System.out.println(list);
 
 
         System.out.println("PreOrder Traversal :");
@@ -34,8 +47,8 @@ public class TreeApp {
         System.out.println();
         System.out.println("Sum of Leaf Nodes: " + tree.findSumOfLeaves(tree.root));
         System.out.println("Height of the tree is: " + tree.height(tree.root));
-       System.out.println("Sum of Node Depths is: " + tree.calculateNodeDepthSums());
-      System.out.println("Sum of all node values is: " + tree.calculateNodeSums());
+        System.out.println("Sum of Node Depths is: " + tree.calculateNodeDepthSums());
+        System.out.println("Sum of all node values is: " + tree.calculateNodeSums());
 
     }
 }
