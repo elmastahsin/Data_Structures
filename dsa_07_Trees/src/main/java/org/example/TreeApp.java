@@ -15,14 +15,6 @@ public class TreeApp {
         tree.insert(7);
 
         VisualizeTree.printTree(tree.root, null, false);
-        List<TNode> list = new ArrayList<>();
-        while (tree.root != null) {
-            if (tree.isLeaf(tree.root)) {
-                list.add(tree.root);
-            }
-            tree.delete(tree.root);
-        }
-        System.out.println(list);
 
 
         System.out.println("PreOrder Traversal :");

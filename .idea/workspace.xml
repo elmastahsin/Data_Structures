@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 10 SortingAlgorithm&#10;QuickSort">
+      <change afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/PhoneBookApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TreeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TreeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +79,12 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "/Users/tahsinelmas/IdeaProjects/Data_Structures/dsa_11_AlgoTask",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
@@ -89,7 +97,15 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TreeApp">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dsa_11_AlgoTask" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PhoneBookApp">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
@@ -116,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.SortingTest" />
-      <module name="dsa_10_Sorting_Algorithm" />
+    <configuration name="PhoneBookApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SLL_PhoneBook.PhoneBookApp" />
+      <module name="dsa_11_AlgoTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="SLL_PhoneBook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,9 +145,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskSearchAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TaskSearchAlgorithm" />
-      <module name="dsa_09_Searching_Algorithm" />
+    <configuration name="SortingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SortingTest" />
+      <module name="dsa_10_Sorting_Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -170,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneBookApp" />
         <item itemvalue="Application.TreeApp" />
         <item itemvalue="Application.SortingTest" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.TaskSolutions" />
-        <item itemvalue="Application.TaskSearchAlgorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -223,13 +239,12 @@
       <workItem from="1674481319507" duration="1938000" />
       <workItem from="1674542170406" duration="3049000" />
       <workItem from="1674559096857" duration="852000" />
-    </task>
-    <task id="LOCAL-00036" summary="Dsa 4&#10;SunSetViews">
-      <created>1673629264159</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1673629264159</updated>
+      <workItem from="1674583709549" duration="354000" />
+      <workItem from="1674585575518" duration="817000" />
+      <workItem from="1674625640946" duration="595000" />
+      <workItem from="1674649107476" duration="21000" />
+      <workItem from="1674670966378" duration="3000" />
+      <workItem from="1676042670680" duration="5449000" />
     </task>
     <task id="LOCAL-00037" summary="Dsa 5&#10;Print Middle Node">
       <created>1673694238923</created>
@@ -567,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674482840551</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Dsa 10 SortingAlgorithm&#10;QuickSort">
+      <created>1674583716181</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1674583716182</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
