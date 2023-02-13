@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 10 SortingAlgorithm&#10;QuickSort">
-      <change afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/PhoneBookApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 11 AlgoQuestions">
+      <change afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/GreatestNumInString/FindTheGreatestNumberInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/LetterCandle/LetterCandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/RussianDolls/RussianDolls.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TreeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TreeApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/PhoneBook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -87,7 +85,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "settings.editor.selected.configurable": "com.yujunyang.intellij.plugin.sonar.extensions.ApplicationSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -105,7 +103,7 @@
       <recent name="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PhoneBookApp">
+  <component name="RunManager" selected="Application.FindTheGreatestNumberInString">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
@@ -125,6 +123,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindTheGreatestNumberInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreatestNumInString.FindTheGreatestNumberInString" />
+      <module name="dsa_11_AlgoTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GreatestNumInString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,19 +169,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskSolutions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TaskSolutions" />
-      <module name="dsa_09_Searching_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TreeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.TreeApp" />
       <module name="dsa_07_Trees" />
@@ -186,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindTheGreatestNumberInString" />
         <item itemvalue="Application.PhoneBookApp" />
         <item itemvalue="Application.TreeApp" />
         <item itemvalue="Application.SortingTest" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.TaskSolutions" />
       </list>
     </recent_temporary>
   </component>
@@ -244,14 +242,12 @@
       <workItem from="1674625640946" duration="595000" />
       <workItem from="1674649107476" duration="21000" />
       <workItem from="1674670966378" duration="3000" />
-      <workItem from="1676042670680" duration="5449000" />
-    </task>
-    <task id="LOCAL-00037" summary="Dsa 5&#10;Print Middle Node">
-      <created>1673694238923</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1673694238923</updated>
+      <workItem from="1676042670680" duration="6395000" />
+      <workItem from="1676198029525" duration="92000" />
+      <workItem from="1676198126105" duration="1000" />
+      <workItem from="1676301233200" duration="2794000" />
+      <workItem from="1676304052876" duration="1317000" />
+      <workItem from="1676305391185" duration="1307000" />
     </task>
     <task id="LOCAL-00038" summary="Dsa 5&#10;ProblemSolving">
       <created>1673696135167</created>
@@ -589,7 +585,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674583716182</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Dsa 11 AlgoQuestions">
+      <created>1676051570616</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1676051570617</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,7 +611,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Dsa 3 &#10;LinkedList&#10;addFirst method" />
     <MESSAGE value="Dsa 4&#10;Stack&#10;MyStack" />
     <MESSAGE value="Dsa 4&#10;Stack&#10;MyStack&#10;ExpressionBalanceCheck" />
     <MESSAGE value="Dsa 4&#10;RecursiveFibonacci&#10;and Stack Algorithm" />
@@ -633,7 +635,8 @@
     <MESSAGE value="Dsa 10 SortingAlgorithm" />
     <MESSAGE value="Dsa 10 SortingAlgorithm&#10;MergeSort" />
     <MESSAGE value="Dsa 10 SortingAlgorithm&#10;QuickSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 10 SortingAlgorithm&#10;QuickSort" />
+    <MESSAGE value="Dsa 11 AlgoQuestions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa 11 AlgoQuestions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -690,6 +693,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Data_Structures$RecursiveFibonacci.ic" NAME="RecursiveFibonacci Coverage Results" MODIFIED="1672591570418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

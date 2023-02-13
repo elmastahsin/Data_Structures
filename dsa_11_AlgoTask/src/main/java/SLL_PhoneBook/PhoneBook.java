@@ -64,7 +64,7 @@ public class PhoneBook {
     void deleteByEmail(String email) {
         if (isEmpty()) {
             System.out.println("List is Empty");
-            ;
+
         }
         Node current = head;
         Node prev = head;
@@ -102,10 +102,25 @@ public class PhoneBook {
         node1.phoneNumber = temp.phoneNumber;
     }
 
-    void sortByName(){
+    void sortByName() {
 
 
+    }
 
+    public void deleteDuplicated() {
+        Node current = head;
+        while (current != null) {
+            Node theNext = current.next;
+
+            while (theNext != null && theNext.email.equals(current.email)) {
+                theNext = theNext.next;
+            }
+
+            current.next = theNext;
+            current = theNext;
+            current = current.next;
+
+        }
 
 
     }
