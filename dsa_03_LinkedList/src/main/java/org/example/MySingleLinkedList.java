@@ -151,4 +151,23 @@ public class MySingleLinkedList {
             current = current.next;
         }
     }
+
+    long getNumber() {
+        Node current = head;
+        int count = 0;
+
+        while (current != null) {
+            count++;
+            current = current.next;
+        }
+        current = head;
+        long result = 0;
+        while (current != null) {
+            result += Math.pow(2, count - 1) * current.id;
+            count--;
+            current = current.next;
+        }
+
+        return result;
+    }
 }
