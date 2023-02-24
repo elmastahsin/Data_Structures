@@ -3,13 +3,13 @@ package session_8;
 public class CustomerNode {
 
 CustomerNode leftChild,rightChild;
-String fistName;
+String firstName;
 String lastName;
 String email;
 String number;
 
-    public CustomerNode(String fistName, String lastName, String email, String number) {
-        this.fistName = fistName;
+    public CustomerNode(String firstName, String lastName, String email, String number) {
+        this.firstName = firstName;
         this.lastName = lastName;
         this.email = email;
         this.number = number;

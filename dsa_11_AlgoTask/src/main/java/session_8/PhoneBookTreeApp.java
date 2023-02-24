@@ -20,9 +20,9 @@ public class PhoneBookTreeApp {
         phoneTree.insert(new CustomerNode("Chewbecca","x","lando@gmail","12355"));
         phoneTree.insert(new CustomerNode("Lea","Princess","lando@gmail","12355"));
 
-        VisualizePhoneBook.printTree(phoneTree.root, null, true);
+        //VisualizePhoneBook.printTree(phoneTree.root, null, true);
         phoneTree.printNamesInAscOrder(phoneTree.root);
-        List<String> result=phoneTree.firstNamesList(phoneTree.root);
+        //List<String> result=phoneTree.firstNamesList(phoneTree.root);
 
     }
 }
