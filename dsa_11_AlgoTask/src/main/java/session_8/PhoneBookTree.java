@@ -1,5 +1,6 @@
 package session_8;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class PhoneBookTree {
@@ -47,9 +48,13 @@ public class PhoneBookTree {
 
     }
 
-//    List<String> firstNamesList(CustomerNode root) { // This is an In Order Traversal Iteratively
-//
-//    }
+    List<String> firstNamesList(CustomerNode root) { // This is an In Order Traversal Iteratively
+        if (root == null) return new ArrayList<>();
+        List<String> list = new ArrayList<>();
+
+
+        return list;
+    }
 
     // return size or number of entries in the phonebook
 

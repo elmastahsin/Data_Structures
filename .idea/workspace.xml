@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Dsa 11 AlgoQuestions Binary Tree Implementation">
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="gitignore updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/PhoneBookTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/PhoneBookTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/PhoneBookTreeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/PhoneBookTreeApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,7 @@
       <recent name="$PROJECT_DIR$/dsa_11_AlgoTask" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ArrayListReview">
     <configuration name="ArrayListReview" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayListReview" />
       <module name="dsa_02_CollectionsReview" />
@@ -251,21 +250,8 @@
       <workItem from="1676310472271" duration="41000" />
       <workItem from="1677145587138" duration="628000" />
       <workItem from="1677252090811" duration="2157000" />
-      <workItem from="1677254274573" duration="360000" />
-    </task>
-    <task id="LOCAL-00041" summary="Dsa 5&#10;ProblemSolving Merge Two Sorted LinkedList">
-      <created>1673721601553</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1673721601553</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Dsa 5&#10;ProblemSolving Merge Two Sorted LinkedList">
-      <created>1673768298590</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1673768298590</updated>
+      <workItem from="1677254274573" duration="3244000" />
+      <workItem from="1677311717077" duration="594000" />
     </task>
     <task id="LOCAL-00043" summary="Dsa 5&#10;ProblemSolving">
       <created>1673783460044</created>
@@ -596,7 +582,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677253233899</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Dsa 11 AlgoQuestions Binary Tree Implementation">
+      <created>1677254951937</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1677254951939</updated>
+    </task>
+    <task id="LOCAL-00091" summary="gitignore updated">
+      <created>1677255094627</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1677255094627</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -615,7 +615,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Dsa 4&#10;RecursiveFibonacci&#10;and Stack Algorithm" />
     <MESSAGE value="Dsa 4&#10;SunSetViews" />
     <MESSAGE value="Dsa 5&#10;Print Middle Node" />
     <MESSAGE value="Dsa 5&#10;ProblemSolving ReverseLinkedListSolution" />
@@ -640,7 +639,8 @@
     <MESSAGE value="Dsa 11 AlgoQuestions" />
     <MESSAGE value="Dsa 11 AlgoQuestions Binary number linkedlist" />
     <MESSAGE value="Dsa 11 AlgoQuestions Binary Tree Implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dsa 11 AlgoQuestions Binary Tree Implementation" />
+    <MESSAGE value="gitignore updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -702,7 +702,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/PhoneBookTree.java</url>
-          <line>27</line>
+          <line>28</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
