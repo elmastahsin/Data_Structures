@@ -4,9 +4,119 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="gitignore updated">
+    <list default="true" id="52f84bbc-584f-4ddf-ac56-da2f5496cdd2" name="Changes" comment="Algo questions">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/src/main/java/org/example/BigO.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/src/main/java/org/example/BigO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/src/main/java/org/example/assignments/AnotherOptimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/src/main/java/org/example/assignments/AnotherOptimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/src/main/java/org/example/assignments/Assignment1_TwoSumOptimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/src/main/java/org/example/assignments/Assignment1_TwoSumOptimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/src/main/java/org/example/assignments/Assignment1_TwoSumSolution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/src/main/java/org/example/assignments/Assignment1_TwoSumSolution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/src/main/java/org/example/assignments/Assignment2_NumOfPeopleInTheBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_01_AlgoritmAnalysis/src/main/java/org/example/assignments/Assignment2_NumOfPeopleInTheBus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_02_CollectionsReview/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_02_CollectionsReview/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_02_CollectionsReview/src/main/java/org/example/ArrayListReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_02_CollectionsReview/src/main/java/org/example/ArrayListReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_02_CollectionsReview/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_02_CollectionsReview/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_02_CollectionsReview/src/main/java/org/example/MapReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_02_CollectionsReview/src/main/java/org/example/MapReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_02_CollectionsReview/src/main/java/org/example/SetReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_02_CollectionsReview/src/main/java/org/example/SetReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_02_CollectionsReview/src/main/java/org/example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_02_CollectionsReview/src/main/java/org/example/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_03_LinkedList/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_03_LinkedList/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/DemoClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/DemoClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/LinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/MySingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/MySingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_03_LinkedList/src/main/java/org/example/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_04_Stacks/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_04_Stacks/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/CollectionStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/CollectionStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/ExpressionBalanceCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/ExpressionBalanceCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/RecursiveFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/RecursiveFibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/SNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/SNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/StackApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/StackApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/SunSetQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_04_Stacks/src/main/java/org/example/SunSetQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/findCycleLL/FindCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/findCycleLL/FindCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/findCycleLL/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/findCycleLL/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/mergeTwoSortedLL/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/mergeTwoSortedLL/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/mergeTwoSortedLL/MergeTwoSortedListSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/mergeTwoSortedLL/MergeTwoSortedListSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/printMiddleLL/MySinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/printMiddleLL/MySinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/printMiddleLL/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/printMiddleLL/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/printMiddleLL/PrintMiddleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/printMiddleLL/PrintMiddleNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/reverseLinkedList/MySinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/reverseLinkedList/MySinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/reverseLinkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/reverseLinkedList/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/reverseLinkedList/ReverseLinkedListSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_05_AlgorithmProblems/src/main/java/org/example/reverseLinkedList/ReverseLinkedListSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_06_Queues_Hashing/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_06_Queues_Hashing/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/CollectionsQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/CollectionsQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/QueueNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/QueueNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/queueQuestion/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/queueQuestion/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/queueQuestion/QNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/queueQuestion/QNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/queueQuestion/ReverseKthElementInQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_06_Queues_Hashing/src/main/java/org/example/queueQuestion/ReverseKthElementInQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_07_Trees/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/MyTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/MyTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TreeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/TreeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/Trunk.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/Trunk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/VisualizeTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_07_Trees/src/main/java/org/example/VisualizeTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_08_Heap/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_08_Heap/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_08_Heap/src/main/java/org/example/HeapApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_08_Heap/src/main/java/org/example/HeapApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_08_Heap/src/main/java/org/example/MyHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_08_Heap/src/main/java/org/example/MyHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_08_Heap/src/main/java/org/example/heapAssignment/KthLargestElementInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_08_Heap/src/main/java/org/example/heapAssignment/KthLargestElementInAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/ExponentialSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/ExponentialSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/JumpSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/JumpSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/TaskSearchAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/TaskSearchAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/TaskSolutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/TaskSolutions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/TernarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_09_Searching_Algorithm/src/main/java/org/example/TernarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/SortingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_10_Sorting_Algorithm/src/main/java/org/example/SortingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Frog/Frog.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Frog/Frog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/GreatestNumInString/FindTheGreatestNumberInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/GreatestNumInString/FindTheGreatestNumberInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/LetterCandle/LetterCandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/LetterCandle/LetterCandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/RussianDolls/RussianDolls.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/RussianDolls/RussianDolls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/PhoneBookApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/SLL_PhoneBook/PhoneBookApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_2/Session_2_MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_2/Session_2_MergeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_4/FindGreatestNumInString/FindGreatestNumberInaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_4/FindGreatestNumInString/FindGreatestNumberInaString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_4/LetterCandles/LetterCandles.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_4/LetterCandles/LetterCandles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_4/russianDolls/RussianDollsProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_4/russianDolls/RussianDollsProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_5/MySinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_5/MySinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_5/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_5/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_5/PrintMiddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_5/PrintMiddle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_6/AlgoQuestion1LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_6/AlgoQuestion1LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_6/AlgoQuestion1LRUCache2.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_6/AlgoQuestion1LRUCache2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_6/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_6/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_6/LRUCache2.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_6/LRUCache2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_7/DetectCycleinLinkedList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_7/DetectCycleinLinkedList2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_7/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/Session_7/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_1/Session_1_KidsWithCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_1/Session_1_KidsWithCandies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_3/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_3/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_3/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_3/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_3/PhoneBookApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_3/PhoneBookApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/CustomerNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/CustomerNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/PhoneBookTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/PhoneBookTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/PhoneBookTreeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/PhoneBookTreeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/Trunk.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/Trunk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/VisualizePhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa_11_AlgoTask/src/main/java/session_8/VisualizePhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,33 +176,33 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/tahsinelmas/IdeaProjects/Data_Structures/dsa_11_AlgoTask&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "/Users/tahsinelmas/IdeaProjects/Data_Structures",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propDebugger",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/dsa_11_AlgoTask" />
@@ -252,13 +362,8 @@
       <workItem from="1677252090811" duration="2157000" />
       <workItem from="1677254274573" duration="3244000" />
       <workItem from="1677311717077" duration="594000" />
-    </task>
-    <task id="LOCAL-00043" summary="Dsa 5&#10;ProblemSolving">
-      <created>1673783460044</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1673783460044</updated>
+      <workItem from="1678441688925" duration="234000" />
+      <workItem from="1679771265893" duration="362000" />
     </task>
     <task id="LOCAL-00044" summary="Dsa 6 Queues-Hashing">
       <created>1673785394338</created>
@@ -596,7 +701,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677255094627</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Algo questions">
+      <created>1678441715319</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1678441715319</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -615,7 +727,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Dsa 4&#10;SunSetViews" />
     <MESSAGE value="Dsa 5&#10;Print Middle Node" />
     <MESSAGE value="Dsa 5&#10;ProblemSolving ReverseLinkedListSolution" />
     <MESSAGE value="Dsa 5&#10;ProblemSolving Merge Two Sorted LinkedList" />
@@ -640,7 +751,8 @@
     <MESSAGE value="Dsa 11 AlgoQuestions Binary number linkedlist" />
     <MESSAGE value="Dsa 11 AlgoQuestions Binary Tree Implementation" />
     <MESSAGE value="gitignore updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore updated" />
+    <MESSAGE value="Algo questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algo questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
